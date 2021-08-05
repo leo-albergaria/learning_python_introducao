@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/128343040-6859a858-45d2-4815-b891-9b00915b59a2.png" align="left" height="150px" width="150px">
+    <h1># Introdução à programação com Python</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    O material trará um breve embasamento da linguagem Python, quando e onde é mais indicao aplicá-la.
     </p>
 </p>      
 
@@ -13,6 +13,3 @@
     <code><a href="https://www.linkedin.com/in/adm-leo-albergaria/">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></code>
 <br>     
-
-<a href="https://www.digitalinnovation.one/">
-    <img src="https://user-images.githubusercontent.com/63436406/127776292-9ec4809a-1137-4dc8-b493-7de0186fd55c.png" align="right" height="80px" width="250px" ></a>
